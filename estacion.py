@@ -30,7 +30,6 @@ class EstacionMeteorologica:
     self.connections = [
       {'SSID' : "Tsuna's Infinix Note 40 Pro", 'PASSWORD' : 'joanisa21'},
       {'SSID' : 'Univalle', 'PASSWORD' : 'Univalle'},
-      {'SSID' : 'VILLAMIL', 'PASSWORD' : 'solylulu12345678'},
     ]
 
     self.wlan = network.WLAN()
